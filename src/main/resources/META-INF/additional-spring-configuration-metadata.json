@@ -1,0 +1,39 @@
+{
+	"properties": [
+		{
+			"name": "authjwt.oauth.authorization-server.rsa.alias",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.authorization-server.rsa.alias."
+		},
+		{
+			"name": "authjwt.oauth.authorization-server.rsa.password",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.authorization-server.rsa.password."
+		},
+		{
+			"name": "authjwt.oauth.authorization-server.rsa.keystore",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.authorization-server.rsa.keystore."
+		},
+		{
+			"name": "authjwt.oauth.authorization-server.access-token-validity",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.authorization-server.access-token-validity."
+		},
+		{
+			"name": "authjwt.oauth.authorization-server.refresh-token-validity",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.authorization-server.refresh-token-validity."
+		},
+		{
+			"name": "authjwt.oauth.client.web.client-id",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.client.web.client-id."
+		},
+		{
+			"name": "authjwt.oauth.client.web.client-secret",
+			"type": "java.lang.String",
+			"description": "Description for authjwt.oauth.client.web.client-secret."
+		}
+	]
+}
