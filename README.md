@@ -1,5 +1,9 @@
 Simple starter project with Authorization and Resource servers setup.
 
+Resource Server: Spring Security 5
+
+Authorization Server: Legacy Spring OAuth2
+
 # Prerequisites
 - JDK 11
 
