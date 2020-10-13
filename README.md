@@ -13,13 +13,12 @@ keytool -genkeypair -alias <key_alias> -keyalg RSA -keypass <key_password> -keys
 ```
 And update the properties in application.yml
 ```yaml
-authjwt:
-  oauth:
-    authorization-server:
-      rsa:
-        alias: <key_alias>
-        password: <key_password>
-        keystore: <key_store>.jks
+oauth2jwt:
+  authorization-server:
+    rsa:
+      alias: <key_alias>
+      password: <key_password>
+      keystore: <key_store>.jks
 ```
 
 ### Setting up the auth user
