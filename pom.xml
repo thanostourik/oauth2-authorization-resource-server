@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tnt</groupId>
-	<artifactId>auth-jwt</artifactId>
+	<artifactId>oauth2-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>auth-jwt</name>
+	<name>oauth2-jwt</name>
 	<description>Demo project for Spring Boot Security with JWT</description>
 
 	<properties>

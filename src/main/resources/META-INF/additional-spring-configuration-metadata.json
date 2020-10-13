@@ -1,39 +1,39 @@
 {
 	"properties": [
 		{
-			"name": "authjwt.oauth.authorization-server.rsa.alias",
+			"name": "oauth2jwt.authorization-server.access-token-validity",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.authorization-server.rsa.alias."
+			"description": "Description for oauth2jwt.authorization-server.access-token-validity."
 		},
 		{
-			"name": "authjwt.oauth.authorization-server.rsa.password",
+			"name": "oauth2jwt.authorization-server.refresh-token-validity",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.authorization-server.rsa.password."
+			"description": "Description for oauth2jwt.authorization-server.refresh-token-validity."
 		},
 		{
-			"name": "authjwt.oauth.authorization-server.rsa.keystore",
+			"name": "oauth2jwt.authorization-server.rsa.alias",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.authorization-server.rsa.keystore."
+			"description": "Description for oauth2jwt.authorization-server.rsa.alias."
 		},
 		{
-			"name": "authjwt.oauth.authorization-server.access-token-validity",
+			"name": "oauth2jwt.authorization-server.rsa.password",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.authorization-server.access-token-validity."
+			"description": "Description for oauth2jwt.authorization-server.rsa.password."
 		},
 		{
-			"name": "authjwt.oauth.authorization-server.refresh-token-validity",
+			"name": "oauth2jwt.authorization-server.rsa.keystore",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.authorization-server.refresh-token-validity."
+			"description": "Description for oauth2jwt.authorization-server.rsa.keystore."
 		},
 		{
-			"name": "authjwt.oauth.client.web.client-id",
+			"name": "oauth2jwt.client.web.client-id",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.client.web.client-id."
+			"description": "Description for oauth2jwt.client.web.client-id."
 		},
 		{
-			"name": "authjwt.oauth.client.web.client-secret",
+			"name": "oauth2jwt.client.web.client-secret",
 			"type": "java.lang.String",
-			"description": "Description for authjwt.oauth.client.web.client-secret."
+			"description": "Description for oauth2jwt.client.web.client-secret."
 		}
 	]
 }
